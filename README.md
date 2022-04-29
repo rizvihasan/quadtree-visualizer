@@ -1,6 +1,5 @@
 # QuadTree Collision Visualizer
 
-[Demo ✨](https://ndbaker1.github.io/quadtree-visualizer/)   
 
 A Visual demonstration of how `Quadtrees` group entities and perform in order to optimize collision detection alogrithms
 
