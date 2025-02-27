@@ -24,3 +24,10 @@ Run the development server:
 npm run dev
 ```
 Opens on [http://localhost:3000](http://localhost:3000).
+
+## Deployment
+
+To deploy to GitHub Pages, run the following command:
+```bash
+npm run deploy
+```
